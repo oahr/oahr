@@ -15,6 +15,8 @@ The **Open Amiga Hardware Repository** is meant to promote Amiga related open ha
 | 5194 |   2 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | Matt Harlum | A2000 Fast RAM |
 | 5194 |   3 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Matt Harlum | A3000/A4000 Fast RAM |
 
+All IDs are decimal.
+
 ## The Repository
 
 The official repository can be found here: [https://github.com/oahr/oahr](https://github.com/oahr/oahr)
