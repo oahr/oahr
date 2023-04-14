@@ -6,7 +6,7 @@ This is where the _Open Amiga Hardware Repository_ comes into play. We have rese
 
 ## Your Benefits
 
-* Your hardware product gets an official and unique _Product ID_ that is reserved for you for a lifetime. There is no need to use the prototype ID, or to waste time acquiring your own manufacturer ID. All you have to do is to [open a new issue](https://github.com/oahr/oahr/issues/new) and apply for it.
+* Your hardware product gets an official and unique _Product ID_ that is reserved for you for a lifetime. There is no need to use the prototype ID, or to waste time acquiring your own manufacturer ID. All you have to do is to [open a new issue](https://github.com/oahr/oahr/issues/new/choose) and apply for it.
 * Your hardware will be recognized by `boards.library` and `identify.library` with their next update.
 
 ## The Rules
@@ -36,7 +36,7 @@ The reason for this rule is that the number of Product IDs are limited, so we do
 
 ## How To Apply
 
-Please [open an issue](https://github.com/oahr/oahr/issues/new) with this project. You will find a form there that you will need to fill out.
+Please [open an issue](https://github.com/oahr/oahr/issues/new/choose) with this project. You will find a form there that you will need to fill out.
 
 If we have further questions, we will follow up in that issue.
 
