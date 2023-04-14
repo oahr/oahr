@@ -11,7 +11,9 @@ The **Open Amiga Hardware Repository** is meant to promote Amiga related open ha
 
 | Manuf-ID | Prod-ID | Project  | Maker | Type |
 | --------:| -------:| -------- | ----- | ---- |
-| 5194 |   1 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Matt Harlum | A3000/A4000 Fast RAM |
+| 5194 |   1 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | Matt Harlum | A500/1000/2000/CDTV Fast RAM |
+| 5194 |   2 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | Matt Harlum | A2000 Fast RAM |
+| 5194 |   3 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Matt Harlum | A3000/A4000 Fast RAM |
 
 ## The Repository
 
