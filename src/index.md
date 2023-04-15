@@ -4,7 +4,8 @@ The Commodore Amiga platform is still alive, and enthusiasts around the world ar
 
 The **Open Amiga Hardware Repository** is meant to promote Amiga related open hardware projects. If you have developed open Amiga hardware, you have come to the right place!
 
-* [The Rules](rules.md) - You have created open Amiga hardware? We will gladly add you to the repository, and assign official product IDs to your project.
+## Table of Contents
+* [Apply](application.md) - You have created open Amiga hardware? We will gladly add you to the repository. [Apply here!](application.md)
 * [FAQ](faq.md) - You have questions? Maybe you will find the answer here!
 
 ## Open Amiga Hardware Projects
@@ -15,7 +16,7 @@ The **Open Amiga Hardware Repository** is meant to promote Amiga related open ha
 | 5194 |   2 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | Matt Harlum | A2000 Fast RAM |
 | 5194 |   3 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Matt Harlum | A3000/A4000 Fast RAM |
 
-All IDs are decimal.
+All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
 ## The Repository
 

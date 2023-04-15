@@ -17,5 +17,5 @@ markdown_extensions:
       permalink: true
 nav:
   - index.md
-  - rules.md
+  - application.md
   - faq.md
