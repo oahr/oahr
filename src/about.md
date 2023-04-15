@@ -1,5 +1,7 @@
 # About the OAHR
 
+This is a non-profit, non-commercial project. It is run by Amiga enthusiasts as a hobby.
+
 The official repository can be found here: [https://github.com/oahr/oahr](https://github.com/oahr/oahr)
 
 ## The Team

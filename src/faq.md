@@ -25,6 +25,14 @@
 
 > You can apply (and get a Product ID) for the **open** part of your project. The closed part however is not eligible. The same applies if your project consists of an open main part, and proprietary extensions.
 
+**Can I commercially use any of these projects, and become rich from other people's work?**
+
+> We cannot tell you. **Please read the license of the respective project!** Some projects permit commercial use, while other explicitly forbid it.
+>
+> Anyway, it is generally frowned upon to make money off the hard work that other people provided for free. If you plan to sell PCBs, kits, or complete hardware, please contact the creator of the project, and make sure they will get a fair share of your profits! This includes selling on online marketplaces or auction sites on a small scale.
+>
+> We personally know a couple of makers who removed their projects from public, or even gave up making new open hardware, because other people sold their work for own profit.
+
 ## Manufacturer/Product ID
 
 **What Manufacturer ID do you have?**
@@ -45,7 +53,7 @@
 >
 > However, you cannot reserve Product IDs for future use. But there is also no need to do so, since it is easy to get more Product IDs as soon as you need them.
 
-**Can I use your Manufacturer ID and a random preliminary Product ID for my early prototype?**
+**Can I use your Manufacturer ID and a preliminary Product ID for my early prototype?**
 
 > **No! You must not use our Manufacturer ID without our consent.** If your project is in an early prototype phase, you can use the prototype Manufacturer ID 2011⏨, which was reserved by Commodore for exactly that purpose. When you can show a working prototype, you can apply for your Product ID. As soon as you got your Product ID assigned by us, you can use it for your project. But not sooner!
 
@@ -55,7 +63,7 @@
 >
 > If your project complies to our rules for open Amiga hardware projects, you can still [apply to be listed here](application.md) though.
 
-**I want to sell one part of the hardware or software. Can I still have a Product ID?**
+**I want to exclusively sell components of my project. Can I still have a Product ID?**
 
 > No. We're sorry, but this project is dedicated to promote Amiga hardware that is fully open. We can understand that you would like to have a financial compensation for the time you have invested in the project. However, for projects with a commercial aspect, it is still possible to quote an own Manufacturer ID from Hyperion Entertainment CVBA.
 
