@@ -25,7 +25,7 @@ All IDs are decimal. See [here](application.md) about how to apply for your own 
 
 ## Adapters
 
-Connect modern hardware to your trusty Amiga.
+Connect non-Amiga hardware to your trusty Amiga.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
