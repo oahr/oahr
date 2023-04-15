@@ -1,0 +1,21 @@
+site_name: Open Amiga Hardware Repository
+site_url: https://oahr.github.io/oahr/
+repo_url: https://github.com/oahr/oahr
+edit_uri: ''
+site_description: Repository for open Amiga hardware projects
+docs_dir: src
+site_dir: docs
+use_directory_urls: false
+copyright: '© The Open Amiga Hardware Repository Team'
+theme:
+    name: 'readthedocs'
+    custom_dir: theme/
+    highlightjs: false
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+nav:
+  - index.md
+  - rules.md
+  - faq.md

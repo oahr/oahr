@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://oahr.github.io/oahr/rules.html" />
+      <link rel="shortcut icon" href="img/favicon.ico" />
+    <title>The Rules - Open Amiga Hardware Repository</title>
+<link rel="stylesheet" href="css/font.css" />
+<link rel="stylesheet" href="css/theme.css" />
+<link rel="stylesheet" href="css/theme_extra.css" />
+<link rel="stylesheet" href="css/theme_custom.css" />
+
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "The Rules";
+        var mkdocs_page_input_path = "rules.md";
+        var mkdocs_page_url = "/oahr/rules.html";
+      </script>
+    
+    <script src="js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+    <![endif]--> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="index.html" class="icon icon-home"> Open Amiga Hardware Repository
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="index.html">The Open Amiga Hardware Repository</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="rules.html">The Rules</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#your-benefits">Your Benefits</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#the-rules_1">The Rules</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#1-open-source">1. Open Source</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#2-prototype-state">2. Prototype State</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#furthermore">Furthermore</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#how-to-apply">How To Apply</a>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="faq.html">Frequently Asked Questions</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Open Amiga Hardware Repository</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="index.html" class="icon icon-home" alt="Docs"></a> &raquo;</li>
+      <li>The Rules</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="the-rules">The Rules<a class="headerlink" href="#the-rules" title="Permanent link">&para;</a></h1>
+<p>Amiga hardware expansions need a <em>Manufacturer ID</em> and <em>Product ID</em> in order to be discovered on the Zorro bus. The <em>Manufacturer ID</em> was assigned by Commodore, while the <em>Product ID</em> was assigned by the manufacturer. Manufacturer IDs can still be requested today, but it is tedious for hobbyists.</p>
+<p>This is where the <em>Open Amiga Hardware Repository</em> comes into play. We have reserved an own <em>Manufacturer ID</em>, and are now assigning individual <em>Product IDs</em> to open hardware projects, <strong>simple and free of charge</strong>!</p>
+<h2 id="your-benefits">Your Benefits<a class="headerlink" href="#your-benefits" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Your hardware product gets an official and unique <em>Product ID</em> that is reserved for you for a lifetime. There is no need to use the prototype ID, or to waste time acquiring your own manufacturer ID. All you have to do is to <a href="https://github.com/oahr/oahr/issues/new/choose">open a new issue</a> and apply for it.</li>
+<li>Your hardware will be recognized by <code>boards.library</code> and <code>identify.library</code> with their next update.</li>
+</ul>
+<h2 id="the-rules_1">The Rules<a class="headerlink" href="#the-rules_1" title="Permanent link">&para;</a></h2>
+<p>The goal of this project is to promote <strong>open Amiga hardware projects</strong>.</p>
+<p>To get added to this repository, and get your own product IDs, you need to comply with the following rules:</p>
+<h3 id="1-open-source">1. Open Source<a class="headerlink" href="#1-open-source" title="Permanent link">&para;</a></h3>
+<p>All parts of your project (hardware, firmware, drivers, JEDEC files etc) must be publically available either under <a href="https://creativecommons.org/licenses/">Creative Commons</a> or with an <a href="https://opensource.org/licenses/">OSI</a> approved open source license.</p>
+<p>Of course you are still allowed to use and distribute your project commercially. However, the resources that you provide must be sufficient so anyone who wants to can build a working version of your project by themself.</p>
+<h3 id="2-prototype-state">2. Prototype State<a class="headerlink" href="#2-prototype-state" title="Permanent link">&para;</a></h3>
+<p>Your project must have reached at least a working prototype state. You must be able to show a working board (no experimental boards) with working firmware or drivers.</p>
+<p>It is okay if there are still bugs, or if your board still needs a small number of botch wires and manual fixes.</p>
+<p>The reason for this rule is that the number of Product IDs are limited, so we don't want to use them on projects that might never leave their conceptional phase.</p>
+<h3 id="furthermore">Furthermore<a class="headerlink" href="#furthermore" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Product IDs will be assigned on a "first-come, first-served" base. If there are conflicting applications, the creation date of the GitHub issue will be decisive.</li>
+<li>We reserve the right to refuse to assign you a Product ID, without giving any reason.</li>
+</ul>
+<h2 id="how-to-apply">How To Apply<a class="headerlink" href="#how-to-apply" title="Permanent link">&para;</a></h2>
+<p>Please <a href="https://github.com/oahr/oahr/issues/new/choose">open an issue</a> with this project. You will find a form there that you will need to fill out.</p>
+<p>If we have further questions, we will follow up in that issue.</p>
+<p>At the end, if everything went fine, your project will be listed in this repository, and you will get your Product IDs assigned.</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="index.html" class="btn btn-neutral float-left" title="The Open Amiga Hardware Repository"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="faq.html" class="btn btn-neutral float-right" title="Frequently Asked Questions">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+      <p>© The Open Amiga Hardware Repository Team</p>
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/oahr/oahr" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="index.html" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="faq.html" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '.';</script>
+    <script src="js/theme_extra.js" defer></script>
+    <script src="js/theme.js" defer></script>
+      <script src="search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

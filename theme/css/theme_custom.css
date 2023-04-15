@@ -1,0 +1,30 @@
+
+.wy-nav-content {
+    max-width: none;
+}
+
+.wy-menu-vertical p.caption {
+    padding: 0 1rem;
+    font-size: 100%;
+    border-bottom: 1px solid #555;
+}
+
+.wy-menu-vertical ul {
+    margin-bottom: .7rem;
+}
+
+p {
+    margin-bottom: .5rem;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+table {
+    margin-bottom: 2rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
