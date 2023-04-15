@@ -47,8 +47,6 @@
               <ul class="current">
                 <li class="toctree-l1 current"><a class="reference internal current" href="application.html">Application</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#your-benefits">Your Benefits</a>
-    </li>
     <li class="toctree-l2"><a class="reference internal" href="#the-rules">The Rules</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#1-open-source">1. Open Source</a>
@@ -56,6 +54,8 @@
     <li class="toctree-l3"><a class="reference internal" href="#2-prototype-state">2. Prototype State</a>
     </li>
         </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#your-product-id">Your Product ID</a>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#how-to-apply">How To Apply</a>
     </li>
@@ -96,23 +96,25 @@
             <div class="section" itemprop="articleBody">
               
                 <h1 id="application">Application<a class="headerlink" href="#application" title="Permanent link">&para;</a></h1>
-<p>Amiga hardware expansions need a <em>Manufacturer ID</em> and <em>Product ID</em> in order to be discovered on the Zorro bus. The <em>Manufacturer ID</em> was assigned by Commodore, while the <em>Product ID</em> is assigned by the manufacturer. Manufacturer IDs can still be requested today, but it is tedious for hobbyists.</p>
-<p>This is where the <em>Open Amiga Hardware Repository</em> comes into play. We have reserved our own <em>Manufacturer ID</em>, and are now assigning individual <em>Product IDs</em> to open hardware projects, <strong>simple and free of charge</strong>!</p>
-<h2 id="your-benefits">Your Benefits<a class="headerlink" href="#your-benefits" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Your hardware product gets an official and unique <em>Product ID</em> that is reserved for you for a lifetime. There is no need to use the prototype ID, or to waste time acquiring your own manufacturer ID. All you have to do is to <a href="https://github.com/oahr/oahr/issues/new/choose">open a new issue</a> and apply for it.</li>
-<li>Your hardware will be recognized by <code>boards.library</code> and <code>identify.library</code> with their next update automatically.</li>
-</ul>
+<p>You have made an open Amiga hardware project?</p>
+<p><strong>Feel free to apply for being listed in this repository!</strong></p>
+<p>It just takes a minute and is free of charge. The <em>Open Amiga Hardware Repository</em> is run by Amiga enthusiasts.</p>
+<p><strong>Our goal is to promote the development of open Amiga hardware.</strong></p>
 <h2 id="the-rules">The Rules<a class="headerlink" href="#the-rules" title="Permanent link">&para;</a></h2>
-<p>The goal of this project is to promote <strong>open Amiga hardware projects</strong>.</p>
-<p>To get added to this repository, and get your own product IDs, you need to comply with the following rules:</p>
+<p>To get added to this repository, and get your own product IDs (if necessary), you need to comply with the following rules:</p>
 <h3 id="1-open-source">1. Open Source<a class="headerlink" href="#1-open-source" title="Permanent link">&para;</a></h3>
-<p>All parts of your project (hardware, firmware, drivers, JEDEC files etc) must be publically available either under <a href="https://creativecommons.org/licenses/">Creative Commons</a> or an <a href="https://opensource.org/licenses/">OSI</a> approved open source license.</p>
+<p>All parts of your project (hardware, firmware, drivers, JEDEC files, documentation etc) must be publically available either under <a href="https://creativecommons.org/licenses/">Creative Commons</a> or an <a href="https://opensource.org/licenses/">OSI</a> approved open source license.</p>
 <p>Of course you are still allowed to use and distribute your project commercially. However, the resources that you provide must be sufficient so anyone who wants to can build an own working copy of your project by themself.</p>
+<p>Your project must be freely accessible to the public, with no obligation to register, subscribe, or pay access fees.</p>
 <h3 id="2-prototype-state">2. Prototype State<a class="headerlink" href="#2-prototype-state" title="Permanent link">&para;</a></h3>
-<p>Your project must have reached at least a working prototype state. You must be able to show a working board (no experimental boards or rendered images).</p>
+<p>Your project must have reached at least a working prototype state. You must be able to show a working board (no experimental boards or rendered board images).</p>
 <p>It is okay if there are still bugs, or if your board still needs a small number of botch wires and manual fixes, as long as you plan to get these issues corrected.</p>
-<p>The reason for this rule is that the number of Product IDs are limited, so we don't want to use them on projects that might never leave their conceptional phase.</p>
+<p>The reason for this rule is that we don't want to flood the repository with "useless" projects that might never leave their conceptional phase.</p>
+<h2 id="your-product-id">Your Product ID<a class="headerlink" href="#your-product-id" title="Permanent link">&para;</a></h2>
+<p>Amiga hardware expansions may need a <em>Manufacturer ID</em> and <em>Product ID</em> in order to be discovered on the Zorro bus. The <em>Manufacturer ID</em> was assigned by Commodore, while the <em>Product ID</em> is assigned by the manufacturer. Manufacturer IDs can still be obtained today, but it is tedious for hobbyists.</p>
+<p>The <em>Open Amiga Hardware Repository</em> has reserved its own <em>Manufacturer ID</em>, and is now assigning individual <em>Product IDs</em> to open hardware projects, <strong>simple and free of charge</strong>! Your hardware product can get an official and unique <em>Product ID</em> that is reserved for you for a lifetime. There is no need to use the prototype Manufacturer ID, or to waste time acquiring your own Manufacturer ID.</p>
+<p>Just state in your application that you need one or more Product IDs.</p>
+<p>As an additional benefit, your hardware will be automatically recognized by <code>boards.library</code> and <code>identify.library</code> with their next update.</p>
 <h2 id="how-to-apply">How To Apply<a class="headerlink" href="#how-to-apply" title="Permanent link">&para;</a></h2>
 <p>Please <a href="https://github.com/oahr/oahr/issues/new/choose">open an issue</a> with this project. You will find a form there that you will need to fill out.</p>
 <p>If we have further questions, we will follow up in that issue.</p>
@@ -121,6 +123,7 @@
 <ul>
 <li>Product IDs will be assigned on a "first-come, first-served" base. If there are conflicting applications, the creation date of the GitHub issue will be decisive.</li>
 <li>We reserve the right to refuse adding you to the repository, or assigning you a Product ID, without giving any reason.</li>
+<li>We do not permit to reserve Product IDs for "future use". Please only quote for Product IDs that you actually need for your current project. You can always come back later and request more Product IDs if you need them.</li>
 </ul>
               
             </div>
