@@ -24,7 +24,7 @@ Also, please attach a photo of your hardware to this issue, or provide a link to
 
 # Product IDs
 
-Please fill out for _every_ product ID you need.
+Please fill out for _every_ product ID you need. You can skip this if you don't need product IDs, but just want to be listed in the repository.
 
 * Desired Product ID (optional, if available, otherwise assigned by us)
 * General purpose of that ID (e.g. RAM expansion, hardware registers, USB connector)

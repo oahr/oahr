@@ -5,8 +5,9 @@ The Commodore Amiga platform is still alive, and enthusiasts around the world ar
 The **Open Amiga Hardware Repository** is meant to promote Amiga related open hardware projects. If you have developed open Amiga hardware, you have come to the right place!
 
 ## Table of Contents
-* [Apply](application.md) - You have created open Amiga hardware? We will gladly add you to the repository. [Apply here!](application.md)
+* [Application](application.md) - You have created open Amiga hardware? We will gladly add you to the repository. [Apply here!](application.md)
 * [FAQ](faq.md) - You have questions? Maybe you will find the answer here!
+* [About](about.md) - About the Open Amiga Hardware Repository
 
 ## Open Amiga Hardware Projects
 
@@ -18,11 +19,16 @@ The **Open Amiga Hardware Repository** is meant to promote Amiga related open ha
 
 All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
-## The Repository
+## Further Open Amiga Hardware Projects
 
-The official repository can be found here: [https://github.com/oahr/oahr](https://github.com/oahr/oahr)
+Other open Amiga hardware projects (alphabetical order, without claim of completeness or correctness):
 
-The maintainers are (in alphabetical order):
+| Project  | Maker | Type |
+| -------- | ----- | ---- |
+| [A3660](http://wordpress.hertell.nu/?p=537)| John "Chucky" Hertell | A3000/A4000 68060 accelerator |
+| [A4000 Replica Board](https://github.com/Acill/A4000RevB) | Acill | Replica A4000 mainboard |
+| [PiStorm](https://github.com/captain-amygdala/pistorm) | | RasPi based accelerator |
+| [RGB2HDMI CPLD Board](https://github.com/LinuxJedi/AmigaRGBtoHDMI) | LinuxJedi | HDMI adapter |
+| [Video Hybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | SukkoPera | Video Hybrid replacement |
 
-* [bubbob42](https://github.com/bubbob42): Maintainer of the `boards.library`
-* [shred](https://github.com/shred): Maintainer of the [`identify.library`](https://github.com/shred/identify) ([@shred@oldbytes.space](https://oldbytes.space/@shred))
+Your board is missing or incorrect? See [here](application.md) about how to apply.

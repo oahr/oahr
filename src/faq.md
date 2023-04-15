@@ -12,13 +12,13 @@
 > * Firmwares (e.g. EPROM, EEPROM, Flash ROM)
 > * Amiga drivers (if necessary)
 > 
-> In other words: If your hardware cannot be built without having to buy components or software exclusively from you, you are not eligible for this repository.
+> In other words: If a functional copy of your hardware cannot be made without having to buy components or software exclusively from you, you are not eligible for this repository.
 
 **Can I still earn money with my project?**
 
-> Of course! You can sell the complete hardware, construction kits, and PCBs. You can also ask for donations.
+> Of course! You can sell the complete hardware, construction kits, PCBs, preprogrammed chips etc. You can also ask for donations.
 > 
-> The only strict requirement is that anyone who is willing and able to build and run the hardware, can do so for free.
+> The only strict requirement is that anyone who is willing and able to build and run the hardware, will find all necessary resources in your project for free.
 
 **I want to sell one part of the hardware or software. Can I still have a Product ID?**
 
@@ -26,9 +26,13 @@
 
 ## Manufacturer/Product ID
 
+**What Manufacturer ID do you have?**
+
+> Our manufacturer ID is 5194 (decimal).
+
 **Is this an official ID?**
 
-> **Yes!** The Manufacturer ID is officially registered with Hyperion. Your individual Product ID is assigned to you by us, and is valid for a lifetime.
+> **Yes!** The Manufacturer ID is officially registered with Hyperion Entertainment CVBA for exclusive use by this project. Your individual Product ID is assigned to you by us, and is valid for a lifetime.
 
 **Can I ask for a specific Product ID?**
 
@@ -38,7 +42,15 @@
 
 > Sure, if multiple Product IDs are technically required. You can also request further Product IDs later, if you extend your project and need more.
 >
-> However, you cannot reserving Product IDs "just in case", since we request to see the photo of a prototype. But there is also no need to do so, since it is easy to get more Product IDs as soon as you need them.
+> However, you cannot reserve Product IDs for future use, since we request to see a photo of your working prototype. But there is also no need to do so, since it is easy to get more Product IDs as soon as you need them.
+
+**Can I have a different Manufacturer ID?**
+
+> Sure, but not from us. 😉 You can [obtain your own Manufacturer ID](https://wiki.amigaos.net/wiki/Amiga_Hardware_Manufacturer_ID_Registry) at Hyperion Entertainment CVBA. If your project complies to our rules for open Amiga hardware projects, you can still [apply to be listed here](application.md).
+
+**boards.library does not show my name as manufacturer!**
+
+> Yes, unfortunately the `boards.library` does not support diverging manufacturer names on product IDs. `identify.library` will show your name as manufacturer of your board though.
 
 ## Forks etc
 
