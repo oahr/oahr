@@ -23,12 +23,13 @@ These projects use a Product ID from the Open Amiga Hardware Repository.
 
 All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
-## Adapters
+## Adapters and Interfaces
 
 Connect non-Amiga hardware to your trusty Amiga.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [KA12 serial port MIDI interface](https://github.com/grzegorz-kraszewski/rastport/tree/main/ka12) | RastPort | MIDI interface |
 | [Open PSX2AmigaPad Adapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | SukkoPera | PSX joystick adapter |
 | [RGB2HDMI CPLD Board](https://github.com/LinuxJedi/AmigaRGBtoHDMI) | LinuxJedi | HDMI adapter |
 | [YAMI](https://github.com/shred/yami) | Shred | Serial mouse adapter |
