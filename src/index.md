@@ -40,6 +40,7 @@ Speed up your Amiga with modern CPUs or CPLDs.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [N2630](https://github.com/jasonsbeer/Amiga-N2630) | jasonsbeer | A2630 re-imaginged |
 | [PiStorm](https://github.com/captain-amygdala/pistorm) | PiStorm | RasPi based accelerator |
 
 ## RAM Expansions
@@ -62,15 +63,16 @@ Replacement parts for classic Amiga models.
 
 ## Replica Boards
 
-Replicas of original Amiga boards.
+Replicas of Amiga mainboards, either exact clones or modernized.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
-| [A3630](https://www.reamiga.info/?page_id=44) | John "Chucky" Hertell | A3630 CPU board |
-| [A3640/A3660](https://www.reamiga.info/?page_id=55)| John "Chucky" Hertell | A3640/A3660 CPU board |
-| [A4000 Replica Board](https://github.com/Acill/A4000RevB) | Acill | Amiga 4000 |
-| [Amiga2000-Remake](https://github.com/Floppie209/Amiga2000-remake) | Floppie2009 | Amiga 2000 |
-| [Rämixx500](https://github.com/SukkoPera/Raemixx500) | SukkoPera | Amiga 500 |
-| [ReAmiga 1200](https://www.reamiga.info/?page_id=38) | ReAmiga | Amiga 1200 |
-| [ReAmiga 3000](https://www.reamiga.info/?page_id=40) | ReAmiga | Amiga 3000 |
-| [ReCD32](https://www.reamiga.info/?page_id=148) | ReAmiga | CD32 |
+| [A3630](https://www.reamiga.info/?page_id=44) | John "Chucky" Hertell | Replica A3630 CPU board |
+| [A3640/A3660](https://www.reamiga.info/?page_id=55)| John "Chucky" Hertell | Replica A3640/A3660 CPU board |
+| [A4000 Replica Board](https://github.com/Acill/A4000RevB) | Acill | Replica Amiga 4000 |
+| [Amiga2000 EATX](https://github.com/jasonsbeer/Amiga-2000-EATX) | jasonsbeer | Amiga 2000, EATX form factor |
+| [Amiga2000-Remake](https://github.com/Floppie209/Amiga2000-remake) | Floppie2009 | Replica Amiga 2000 |
+| [Rämixx500](https://github.com/SukkoPera/Raemixx500) | SukkoPera | Replica Amiga 500 |
+| [ReAmiga 1200](https://www.reamiga.info/?page_id=38) | ReAmiga | Replica Amiga 1200 |
+| [ReAmiga 3000](https://www.reamiga.info/?page_id=40) | ReAmiga | Replica Amiga 3000 |
+| [ReCD32](https://www.reamiga.info/?page_id=148) | ReAmiga | Replica CD32 |
