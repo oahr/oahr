@@ -19,4 +19,4 @@ There is no warranty (expressed or implied) that the projects are actually build
 
 Please understand that we also cannot give any kind of product or assembly support. We also do not sell the hardware, components or kits. If you need assistance, please get in contact with the respective maker of the project.
 
-All Manufacturer IDs and Product IDs mentioned in this project are decimal.
+All Manufacturer IDs and Product IDs mentioned in this project are decimal, unless explicitly stated otherwise.

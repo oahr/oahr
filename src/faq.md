@@ -13,7 +13,7 @@
 > * Amiga drivers (if necessary)
 > * Documentation (so people will know how to build it)
 >
-> Rule of thumb: If a functional copy of your hardware cannot be made without having to purchase components, software or documentation exclusively from you, you are not eligible for this repository.
+> Rule of thumb: If a functional copy of your hardware cannot be made without having to purchase components, software or documentation exclusively from you, then your project is not eligible for this repository.
 
 **Can I still earn money with my project?**
 
@@ -37,7 +37,7 @@
 
 **What Manufacturer ID do you have?**
 
-> Our manufacturer ID is 5194⏨.
+> Our manufacturer ID is 5194<sub>10</sub> = 144A<sub>16</sub>.
 
 **Is this an official ID?**
 
@@ -49,9 +49,9 @@
 
 **Can I have multiple Product IDs for the same project?**
 
-> Sure, if multiple Product IDs are technically required. You can also request further Product IDs later, if you extend your project and need more.
+> Sure, if multiple Product IDs are technically required.
 >
-> However, you cannot reserve Product IDs for future use. But there is also no need to do so, since it is easy to get more Product IDs as soon as you need them.
+> However, you cannot reserve Product IDs for future use. But there is also no need to do so, since it is easy to get more Product IDs as soon as you extend your project or start another one.
 
 **Can I use your Manufacturer ID and a preliminary Product ID for my early prototype?**
 
@@ -65,7 +65,7 @@
 
 **I want to exclusively sell components of my project. Can I still have a Product ID?**
 
-> No. We're sorry, but this project is dedicated to promote Amiga hardware that is fully open. We can understand that you would like to have a financial compensation for the time you have invested in the project. However, for projects with a commercial aspect, it is still possible to quote an own Manufacturer ID from Hyperion Entertainment CVBA.
+> No. We can understand that you would like to have a financial compensation for the time you have invested in the project, but this repository is dedicated to promote Amiga hardware that is fully open. You can quote your own Manufacturer ID from Hyperion Entertainment CVBA though.
 
 **boards.library does not show my name as manufacturer!**
 
