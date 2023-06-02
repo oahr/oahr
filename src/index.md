@@ -67,6 +67,7 @@ Replicas of original Amiga boards.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [A1000 Rejuvenator](https://github.com/joethezombie/Amiga-1000-Rejuvenator) | joethezombie | Replica A1000 Rejuvenator |
 | [A3630](https://www.reamiga.info/?page_id=44) | John "Chucky" Hertell | Replica A3630 CPU board |
 | [A3640/A3660](https://www.reamiga.info/?page_id=55)| John "Chucky" Hertell | Replica A3640/A3660 CPU board |
 | [A4000 Replica Board](https://github.com/Acill/A4000RevB) | Acill | Replica Amiga 4000 |
@@ -82,3 +83,8 @@ Reinvented, modern Amiga mainboards.
 | -------- | ----- | ---- |
 | [Amiga2000 EATX](https://github.com/jasonsbeer/Amiga-2000-EATX) | jasonsbeer | Amiga 2000, EATX form factor |
 | [MiniMig](https://www.minimig.ca/) | EmbeddedSoft | FPGA Amiga, MiniITX form factor |
+
+!!! disclaimer
+    **This is just a collection of links to open hardware projects.**
+    
+    We have not tested these projects ourselves and therefore cannot provide any warranty, either expressed or implied, regarding their functionality or their potential to cause damage to your hardware or property. If you have any questions or encounter any issues with a project, please reach out to the respective project owner for assistance.
