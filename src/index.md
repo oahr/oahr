@@ -15,11 +15,14 @@ Your board is missing or incorrect? See [here](application.md) about how to cont
 
 These projects use a Product ID from the Open Amiga Hardware Repository.
 
-| Manuf-ID | Prod-ID | Project  | Maker | Type |
-| --------:| -------:| -------- | ----- | ---- |
-| 5194 |   1 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | Matt Harlum | A500/1000/2000/CDTV Fast RAM |
-| 5194 |   2 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | Matt Harlum | A2000 Fast RAM |
-| 5194 |   3 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Matt Harlum | A3000/A4000 Fast RAM |
+| Manuf-ID | Prod-ID | Project  | Maker | Type |   |
+| --------:| -------:| -------- | ----- | ---- | - |
+| 5194 |   1 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | Matt Harlum | A500/1000/2000/CDTV Fast RAM | Fast RAM |
+| 5194 |   2 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | Matt Harlum | A2000 Fast RAM | Fast RAM |
+| 5194 |   3 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Matt Harlum | A3000/A4000 Fast RAM | Fast RAM |
+| 5194 |   4 | [CIDER](https://github.com/LIV2/CIDER) | Matt Harlum | CDTV IDE + RAM | Fast RAM |
+| 5194 |   5 | [CIDER](https://github.com/LIV2/CIDER) | Matt Harlum | CDTV IDE + RAM | IDE |
+| 5194 |   6 | [CIDER](https://github.com/LIV2/CIDER) | Matt Harlum | CDTV IDE + RAM | Control Registers |
 
 All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
