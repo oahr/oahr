@@ -45,6 +45,7 @@ Speed up your Amiga with modern CPUs or CPLDs.
 | -------- | ----- | ---- |
 | [N2630](https://github.com/jasonsbeer/Amiga-N2630) | jasonsbeer | A2630 re-imaginged |
 | [PiStorm](https://github.com/captain-amygdala/pistorm) | PiStorm | RasPi based accelerator |
+| [Z3660](https://github.com/shanshe/Z3660) | sHaNsHe | A3660 based accelerator, RAM, RTG, Audio, Network |
 
 ## RAM Expansions
 
