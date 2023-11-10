@@ -7,13 +7,15 @@
 > Everything that is required for anyone to build and run a working copy of your hardware. This is (not limited):
 >
 > * Circuit diagrams
-> * Gerber files (to order the PCB at a PCB manufacturer)
+> * Gerber files (to order the PCB at a PCB manufacturer) or the related CAD project files
 > * JEDEC files for programming CPLDs, PALs, etc.
 > * Firmwares (e.g. EPROM, EEPROM, Flash ROM)
 > * Amiga drivers (if necessary)
 > * Documentation (so people will know how to build it)
 >
 > Rule of thumb: If a functional copy of your hardware cannot be made without having to purchase components, software or documentation exclusively from you, then your project is not eligible for this repository.
+>
+> CAD project files are sufficient if you use an open CAD tool like [KiCAD](https://www.kicad.org/) or [LibrePCB](https://librepcb.org/), so anyone interested can generate the Gerber files themself.
 
 **Can I still earn money with my project?**
 
