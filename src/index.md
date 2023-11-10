@@ -32,9 +32,12 @@ Connect non-Amiga hardware to your trusty Amiga.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE) | EmberHeavyIndustries | VGA vertical bars filter |
+| [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | EmberHeavyIndustries | USB mouse/gamepad adapter |
 | [KA12 serial port MIDI interface](https://github.com/grzegorz-kraszewski/rastport/tree/main/ka12) | RastPort | MIDI interface |
 | [Open PSX2AmigaPad Adapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | SukkoPera | PSX joystick adapter |
 | [RGB2HDMI CPLD Board](https://github.com/LinuxJedi/AmigaRGBtoHDMI) | LinuxJedi | HDMI adapter |
+| [Stalker](https://github.com/gianlucarenzi/stalker) | Gianluca Renzi | USB keyboard adapter |
 | [YAMI](https://github.com/shred/yami) | Shred | Serial mouse adapter |
 
 ## Accelerators
