@@ -19,7 +19,6 @@
         var mkdocs_page_url = "/oahr/index.html";
       </script>
     
-    <script src="js/jquery-3.6.0.min.js" defer></script>
     <!--[if lt IE 9]>
       <script src="js/html5shiv.min.js"></script>
     <![endif]--> 
@@ -34,7 +33,7 @@
           <a href="index.html" class="icon icon-home"> Open Amiga Hardware Repository
         </a><div role="search">
   <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -85,8 +84,8 @@
       <div class="wy-nav-content">
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="index.html" class="icon icon-home" alt="Docs"></a> &raquo;</li>
-      <li>The Open Amiga Hardware Repository</li>
+    <li><a href="index.html" class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">The Open Amiga Hardware Repository</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -110,8 +109,8 @@
 <table>
 <thead>
 <tr>
-<th align="right">Manuf-ID</th>
-<th align="right">Prod-ID</th>
+<th style="text-align: right;">Manuf-ID</th>
+<th style="text-align: right;">Prod-ID</th>
 <th>Project</th>
 <th>Maker</th>
 <th>Type</th>
@@ -120,52 +119,60 @@
 </thead>
 <tbody>
 <tr>
-<td align="right">5194</td>
-<td align="right">1</td>
+<td style="text-align: right;">5194</td>
+<td style="text-align: right;">1</td>
 <td><a href="https://github.com/LIV2/GottaGoFastRAM">GottaGoFastRAM</a></td>
 <td>Matt Harlum</td>
 <td>A500/1000/2000/CDTV Fast RAM</td>
 <td>Fast RAM</td>
 </tr>
 <tr>
-<td align="right">5194</td>
-<td align="right">2</td>
+<td style="text-align: right;">5194</td>
+<td style="text-align: right;">2</td>
 <td><a href="https://github.com/LIV2/GottaGoFastRAM2000">GottaGoFastRAM2000</a></td>
 <td>Matt Harlum</td>
 <td>A2000 Fast RAM</td>
 <td>Fast RAM</td>
 </tr>
 <tr>
-<td align="right">5194</td>
-<td align="right">3</td>
+<td style="text-align: right;">5194</td>
+<td style="text-align: right;">3</td>
 <td><a href="https://github.com/LIV2/GottaGoFaZt3r">GottaGoFaZt3r</a></td>
 <td>Matt Harlum</td>
 <td>A3000/A4000 Fast RAM</td>
 <td>Fast RAM</td>
 </tr>
 <tr>
-<td align="right">5194</td>
-<td align="right">4</td>
+<td style="text-align: right;">5194</td>
+<td style="text-align: right;">4</td>
 <td><a href="https://github.com/LIV2/CIDER">CIDER</a></td>
 <td>Matt Harlum</td>
 <td>CDTV IDE + RAM</td>
 <td>Fast RAM</td>
 </tr>
 <tr>
-<td align="right">5194</td>
-<td align="right">5</td>
+<td style="text-align: right;">5194</td>
+<td style="text-align: right;">5</td>
 <td><a href="https://github.com/LIV2/CIDER">CIDER</a></td>
 <td>Matt Harlum</td>
 <td>CDTV IDE + RAM</td>
 <td>IDE</td>
 </tr>
 <tr>
-<td align="right">5194</td>
-<td align="right">6</td>
+<td style="text-align: right;">5194</td>
+<td style="text-align: right;">6</td>
 <td><a href="https://github.com/LIV2/CIDER">CIDER</a></td>
 <td>Matt Harlum</td>
 <td>CDTV IDE + RAM</td>
 <td>Control Registers</td>
+</tr>
+<tr>
+<td style="text-align: right;">5194</td>
+<td style="text-align: right;">7</td>
+<td><a href="https://github.com/LIV2/RIPPLE-IDE">RIPPLE</a></td>
+<td>Matt Harlum</td>
+<td>Zorro IDE</td>
+<td>IDE</td>
 </tr>
 </tbody>
 </table>
@@ -414,20 +421,21 @@
     
   </span>
 </div>
-    <script>var base_url = '.';</script>
-    <script src="js/theme_extra.js" defer></script>
-    <script src="js/theme.js" defer></script>
-      <script src="search/main.js" defer></script>
-    <script defer>
-        window.onload = function () {
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = ".";</script>
+    <script src="js/theme_extra.js"></script>
+    <script src="js/theme.js"></script>
+      <script src="search/main.js"></script>
+    <script>
+        jQuery(function () {
             SphinxRtdTheme.Navigation.enable(true);
-        };
+        });
     </script>
 
 </body>
 </html>
 
 <!--
-MkDocs version : 1.4.2
-Build Date UTC : 2023-11-10 08:21:01.268104+00:00
+MkDocs version : 1.5.3
+Build Date UTC : 2023-11-29 13:47:38.982435+00:00
 -->

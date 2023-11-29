@@ -23,6 +23,7 @@ These projects use a Product ID from the Open Amiga Hardware Repository.
 | 5194 |   4 | [CIDER](https://github.com/LIV2/CIDER) | Matt Harlum | CDTV IDE + RAM | Fast RAM |
 | 5194 |   5 | [CIDER](https://github.com/LIV2/CIDER) | Matt Harlum | CDTV IDE + RAM | IDE |
 | 5194 |   6 | [CIDER](https://github.com/LIV2/CIDER) | Matt Harlum | CDTV IDE + RAM | Control Registers |
+| 5194 |   7 | [RIPPLE](https://github.com/LIV2/RIPPLE-IDE) | Matt Harlum | Zorro IDE | IDE |
 
 All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
