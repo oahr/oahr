@@ -33,7 +33,9 @@ Connect non-Amiga hardware to your trusty Amiga.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [A1200 SmallyMouse2](https://github.com/OlegMishin/A1200-SmallyMouse2) | Oleg Mishin | A1200 USB mouse adapter |
 | [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE) | EmberHeavyIndustries | VGA vertical bars filter |
+| [GotekFlashFloppy](https://github.com/OlegMishin/GotekFlashFloppy) | Oleg Mishin | Floppy emulator |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | EmberHeavyIndustries | USB mouse/gamepad adapter |
 | [KA12 serial port MIDI interface](https://github.com/grzegorz-kraszewski/rastport/tree/main/ka12) | RastPort | MIDI interface |
 | [Open PSX2AmigaPad Adapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | SukkoPera | PSX joystick adapter |
@@ -57,6 +59,7 @@ Extend your Amiga's RAM.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [A500 8MB IDE](https://github.com/OlegMishin/A500_8MB_ide2) | Oleg Mishin | Amiga 500 RAM expansion and IDE |
 | [Open Amiga 500 Fast RAM Expansion](https://github.com/SukkoPera/OpenAmiga500FastRamExpansion) | SukkoPera | Amiga 500 Fast RAM |
 | [Open Amiga 600 Fast RAM Expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | SukkoPera | Amiga 600 Fast RAM |
 | [Open Amiga 600 RAM Expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | SukkoPera | Amiga 600 RAM |
@@ -67,6 +70,7 @@ Replacement parts for classic Amiga models.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [A1200 Keyboard MPU](https://github.com/OlegMishin/A1200_keyb_MPU) | Oleg Mishin | Keyboard MPU replacement |
 | [Open Amiga Video Hybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | SukkoPera | Video Hybrid replacement |
 
 ## Replica Boards
