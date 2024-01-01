@@ -34,7 +34,9 @@ Connect non-Amiga hardware to your trusty Amiga.
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
 | [A1200 SmallyMouse2](https://github.com/OlegMishin/A1200-SmallyMouse2) | Oleg Mishin | A1200 USB mouse adapter |
+| [A314](https://github.com/niklasekstrom/a314) | Niklas Ekström | A500 Raspberry Pi interface |
 | [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE) | EmberHeavyIndustries | VGA vertical bars filter |
+| [Clockport Pi](https://github.com/niklasekstrom/clockport_pi_interface) | Niklas Ekström | Clockport Raspberry Pi interface |
 | [GotekFlashFloppy](https://github.com/OlegMishin/GotekFlashFloppy) | Oleg Mishin | Floppy emulator |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | EmberHeavyIndustries | USB mouse/gamepad adapter |
 | [KA12 serial port MIDI interface](https://github.com/grzegorz-kraszewski/rastport/tree/main/ka12) | RastPort | MIDI interface |
