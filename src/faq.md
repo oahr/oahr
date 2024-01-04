@@ -13,7 +13,7 @@
 > * Amiga drivers (if necessary)
 > * Documentation (so people will know how to build it)
 >
-> Rule of thumb: If a functional copy of your hardware cannot be made without having to purchase components, software or documentation exclusively from you, then your project is not eligible for this repository.
+> Rule of thumb: If a functional copy of your hardware cannot be made without having to purchase components, software or documentation exclusively from you (or an associated vendor), then your project is not eligible for this repository.
 >
 > CAD project files are sufficient if you use an open CAD tool like [KiCAD](https://www.kicad.org/) or [LibrePCB](https://librepcb.org/), so anyone interested can generate the Gerber files themself.
 
