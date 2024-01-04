@@ -27,6 +27,16 @@ These projects use a Product ID from the Open Amiga Hardware Repository.
 
 All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
+## Accelerators
+
+Speed up your Amiga with modern CPUs or CPLDs.
+
+| Project  | Maker | Type |
+| -------- | ----- | ---- |
+| [N2630](https://github.com/jasonsbeer/Amiga-N2630) | jasonsbeer | A2630 re-imaginged |
+| [PiStorm](https://github.com/captain-amygdala/pistorm) | PiStorm | RasPi based accelerator |
+| [Z3660](https://github.com/shanshe/Z3660) | sHaNsHe | A3660 based accelerator, RAM, RTG, Audio, Network |
+
 ## Adapters and Interfaces
 
 Connect non-Amiga hardware to your trusty Amiga.
@@ -46,16 +56,6 @@ Connect non-Amiga hardware to your trusty Amiga.
 | [Stalker](https://github.com/gianlucarenzi/stalker) | Gianluca Renzi | USB keyboard adapter |
 | [YAMI](https://github.com/shred/yami) | Shred | Serial mouse adapter |
 
-## Accelerators
-
-Speed up your Amiga with modern CPUs or CPLDs.
-
-| Project  | Maker | Type |
-| -------- | ----- | ---- |
-| [N2630](https://github.com/jasonsbeer/Amiga-N2630) | jasonsbeer | A2630 re-imaginged |
-| [PiStorm](https://github.com/captain-amygdala/pistorm) | PiStorm | RasPi based accelerator |
-| [Z3660](https://github.com/shanshe/Z3660) | sHaNsHe | A3660 based accelerator, RAM, RTG, Audio, Network |
-
 ## Audio
 
 All kind of audio related projects.
@@ -64,7 +64,6 @@ All kind of audio related projects.
 | -------- | ----- | ---- |
 | [Amiga Stereo Digitizer](https://github.com/wiretap-retro/Amiga-Stereo-Digitizer) | Sampedenawa, wiretap | Parallel port digitizer |
 | [Prelude ZII Sound Card](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | wiretap | Replica of the Prelude ZII |
-
 
 ## RAM Expansions
 
