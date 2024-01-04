@@ -36,6 +36,7 @@ Connect non-Amiga hardware to your trusty Amiga.
 | [A1200 SmallyMouse2](https://github.com/OlegMishin/A1200-SmallyMouse2) | Oleg Mishin | A1200 USB mouse adapter |
 | [A314](https://github.com/niklasekstrom/a314) | Niklas Ekström | A500 Raspberry Pi interface |
 | [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE) | EmberHeavyIndustries | VGA vertical bars filter |
+| [Amiga 1000 Parallel Port Converter](https://github.com/wiretap-retro/Amiga-1000-Parallel-Port-Converter) | wiretap | Parallel port adapter |
 | [Clockport Pi](https://github.com/niklasekstrom/clockport_pi_interface) | Niklas Ekström | Clockport Raspberry Pi interface |
 | [GotekFlashFloppy](https://github.com/OlegMishin/GotekFlashFloppy) | Oleg Mishin | Floppy emulator |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | EmberHeavyIndustries | USB mouse/gamepad adapter |
@@ -55,6 +56,16 @@ Speed up your Amiga with modern CPUs or CPLDs.
 | [PiStorm](https://github.com/captain-amygdala/pistorm) | PiStorm | RasPi based accelerator |
 | [Z3660](https://github.com/shanshe/Z3660) | sHaNsHe | A3660 based accelerator, RAM, RTG, Audio, Network |
 
+## Audio
+
+All kind of audio related projects.
+
+| Project  | Maker | Type |
+| -------- | ----- | ---- |
+| [Amiga Stereo Digitizer](https://github.com/wiretap-retro/Amiga-Stereo-Digitizer) | Sampedenawa, wiretap | Parallel port digitizer |
+| [Prelude ZII Sound Card](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | wiretap | Replica of the Prelude ZII |
+
+
 ## RAM Expansions
 
 Extend your Amiga's RAM.
@@ -73,6 +84,8 @@ Replacement parts for classic Amiga models.
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
 | [A1200 Keyboard MPU](https://github.com/OlegMishin/A1200_keyb_MPU) | Oleg Mishin | Keyboard MPU replacement |
+| [Not-A-Varta](https://github.com/wiretap-retro/Not-A-Varta) | wiretap | CR1220 accumulator replacement |
+| [Not-A-Varta CR2023](https://github.com/wiretap-retro/Not-A-Varta-CR2032) | wiretap | CR2032 accumulator replacement |
 | [Open Amiga Video Hybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | SukkoPera | Video Hybrid replacement |
 
 ## Replica Boards
@@ -96,6 +109,7 @@ Reinvented, modern Amiga mainboards.
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
 | [Amiga2000 EATX](https://github.com/jasonsbeer/Amiga-2000-EATX) | jasonsbeer | Amiga 2000, EATX form factor |
+| [MigStorm-ITX](https://github.com/wiretap-retro/MigStorm-ITX) | wiretap | MiniMig clone, ITX form factor |
 | [MiniMig](https://www.minimig.ca/) | EmbeddedSoft | FPGA Amiga, MiniITX form factor |
 
 !!! disclaimer
