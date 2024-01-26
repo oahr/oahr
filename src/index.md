@@ -111,6 +111,15 @@ Reinvented, modern Amiga mainboards.
 | [MigStorm-ITX](https://github.com/wiretap-retro/MigStorm-ITX) | wiretap | MiniMig clone, ITX form factor |
 | [MiniMig](https://www.minimig.ca/) | EmbeddedSoft | FPGA Amiga, MiniITX form factor |
 
+## Non-Amiga
+
+Projects that are not directly Amiga related, but might be useful for your Amiga.
+
+| Project  | Maker | Type |
+| -------- | ----- | ---- |
+| [BlueSCSI-v2](https://bluescsi.com/) | BlueSCSI | SCSI SD Adapter |
+
+
 !!! disclaimer
     **This is just a collection of links to open hardware projects.**
     
