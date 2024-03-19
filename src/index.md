@@ -83,6 +83,7 @@ Replacement parts for classic Amiga models.
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
 | [A1200 Keyboard MPU](https://github.com/OlegMishin/A1200_keyb_MPU) | Oleg Mishin | Keyboard MPU replacement |
+| [Diet Agnus A500+](https://github.com/LIV2/Diet-Agnus-A500-plus) | Matt Harlum | Use 8372A in an Amiga 500+ |
 | [Not-A-Varta](https://github.com/wiretap-retro/Not-A-Varta) | wiretap | CR1220 accumulator replacement |
 | [Not-A-Varta CR2023](https://github.com/wiretap-retro/Not-A-Varta-CR2032) | wiretap | CR2032 accumulator replacement |
 | [Open Amiga Video Hybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | SukkoPera | Video Hybrid replacement |
