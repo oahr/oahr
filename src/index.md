@@ -102,6 +102,7 @@ Replicas of original Amiga boards.
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | SukkoPera | Replica Amiga 500 |
 | [ReAmiga 1200](https://www.reamiga.info/?page_id=38) | ReAmiga | Replica Amiga 1200 |
 | [ReAmiga 3000](https://www.reamiga.info/?page_id=40) | ReAmiga | Replica Amiga 3000 |
+| [ReAmiga 4000CR](https://www.reamiga.info/?page_id=165) | ReAmiga | Replica Amiga 4000 RevD CR |
 | [ReCD32](https://www.reamiga.info/?page_id=148) | ReAmiga | Replica CD32 |
 
 Reinvented, modern Amiga mainboards.
