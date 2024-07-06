@@ -112,6 +112,7 @@ Reinvented, modern Amiga mainboards.
 | [Amiga2000 EATX](https://github.com/jasonsbeer/Amiga-2000-EATX) | jasonsbeer | Amiga 2000, EATX form factor |
 | [MigStorm-ITX](https://github.com/wiretap-retro/MigStorm-ITX) | wiretap | MiniMig clone, ITX form factor |
 | [MiniMig](https://www.minimig.ca/) | EmbeddedSoft | FPGA Amiga, MiniITX form factor |
+| [SMD2000 "Bushfire"](https://github.com/gazzmaniac/SMD2000/) | gaz | Amiga 2000, MiniDTX form factor |
 
 ## Non-Amiga
 
