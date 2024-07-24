@@ -76,6 +76,14 @@ Extend your Amiga's RAM.
 | [Open Amiga 600 Fast RAM Expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | SukkoPera | Amiga 600 Fast RAM |
 | [Open Amiga 600 RAM Expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | SukkoPera | Amiga 600 RAM |
 
+## Remakes
+
+Remakes of original hardware.
+
+| Project  | Maker | Type |
+| -------- | ----- | ---- |
+| [Action Replay III](https://github.com/na103/ar3) | Nicola Avanzi | Remake of Action Replay III |
+
 ## Replacement Parts
 
 Replacement parts for classic Amiga models.
