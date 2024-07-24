@@ -78,7 +78,7 @@ Extend your Amiga's RAM.
 
 ## Remakes
 
-Remakes of original hardware.
+Various remakes of original hardware.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
