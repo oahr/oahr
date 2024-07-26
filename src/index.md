@@ -43,6 +43,7 @@ Connect non-Amiga hardware to your trusty Amiga.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
+| [7-drive](https://github.com/na103/7-drive) | Nicola Avanzi | External floppy track display |
 | [A1200 SmallyMouse2](https://github.com/OlegMishin/A1200-SmallyMouse2) | Oleg Mishin | A1200 USB mouse adapter |
 | [A314](https://github.com/niklasekstrom/a314) | Niklas Ekström | A500 Raspberry Pi interface |
 | [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE) | EmberHeavyIndustries | VGA vertical bars filter |
