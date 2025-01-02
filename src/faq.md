@@ -39,7 +39,7 @@
 
 **What Manufacturer ID do you have?**
 
-> Our manufacturer ID is 5194<sub>10</sub> = 144A<sub>16</sub>.
+> Our manufacturer ID is 5194<sub>(10)</sub> = 144A<sub>(16)</sub>.
 
 **Is this an official ID?**
 

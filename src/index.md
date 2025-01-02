@@ -136,4 +136,6 @@ Projects that are not directly Amiga related, but might be useful for your Amiga
 !!! disclaimer
     **This is just a collection of links to open hardware projects.**
     
-    We have not tested these projects ourselves and therefore cannot provide any warranty, either expressed or implied, regarding their functionality or their potential to cause damage to your hardware or property. If you have any questions or encounter any issues with a project, please reach out to the respective project owner for assistance.
+    We do not have the funds or expertise to evaluate the feasibility of each project ourselves. Therefore we cannot provide any warranty, either expressed or implied, regarding their functionality or their potential to cause damage to your hardware or property.
+    
+    If you have any questions or encounter any issues with a project, please reach out to the respective project owner for assistance.
