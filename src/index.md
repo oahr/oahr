@@ -26,6 +26,8 @@ These projects use a Product ID from the Open Amiga Hardware Repository.
 | 5194 |   7 | [RIPPLE](https://github.com/LIV2/RIPPLE-IDE) | Matt Harlum | Zorro IDE | IDE |
 | 5194 |   8 | [RIDE](https://github.com/LIV2/RIDE) | Matt Harlum | A500/1000/2000/CDTV Fast RAM + IDE | Fast RAM |
 | 5194 |   9 | [RIDE](https://github.com/LIV2/RIDE) | Matt Harlum | A500/1000/2000/CDTV Fast RAM + IDE | IDE |
+| 5194 |  10 | [SF2000](https://github.com/jbilander/SF2000) | J. Bilander | A2000 Accelerator | RAM |
+| 5194 |  11 | [SF2000](https://github.com/jbilander/SF2000) | Niklas Ekström, Matt Harlum | A2000 Accelerator | SD Card |
 
 All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
