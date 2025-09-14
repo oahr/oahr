@@ -70,6 +70,7 @@ All kind of audio related projects.
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
 | [Amiga Stereo Digitizer](https://github.com/wiretap-retro/Amiga-Stereo-Digitizer) | Sampedenawa, wiretap | Parallel port digitizer |
+| [AmiGUS](https://github.com/necronomfive/AmiGUS-pub) | Oliver Achten | ZII Sound Board |
 | [Prelude ZII Sound Card](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | wiretap | Replica of the Prelude ZII |
 
 ## RAM Expansions
@@ -100,9 +101,11 @@ Replacement parts for classic Amiga models.
 | -------- | ----- | ---- |
 | [A1200 Keyboard MPU](https://github.com/OlegMishin/A1200_keyb_MPU) | Oleg Mishin | Keyboard MPU replacement |
 | [Diet Agnus A500+](https://github.com/LIV2/Diet-Agnus-A500-plus) | Matt Harlum | Use 8372A in an Amiga 500+ |
+| [KickSmash32](https://github.com/cdhooper/kicksmash32) | Chris Hooper | A1200/3000/4000 ROM replacement |
 | [Not-A-Varta](https://github.com/wiretap-retro/Not-A-Varta) | wiretap | CR1220 accumulator replacement |
 | [Not-A-Varta CR2032](https://github.com/wiretap-retro/Not-A-Varta-CR2032) | wiretap | CR2032 accumulator replacement |
 | [Open Amiga Video Hybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | SukkoPera | Video Hybrid replacement |
+| [RPROM](https://github.com/niklasekstrom/RPROM) | Niklas Ekström | A500/600/2000 ROM emulator |
 
 ## Replica Boards
 
