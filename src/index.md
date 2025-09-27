@@ -60,7 +60,7 @@ Connect non-Amiga hardware to your trusty Amiga.
 | [Open PSX2AmigaPad Adapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | SukkoPera | PSX joystick adapter |
 | [RGB2HDMI CPLD Board](https://github.com/LinuxJedi/AmigaRGBtoHDMI) | LinuxJedi | HDMI adapter |
 | [Stalker](https://github.com/gianlucarenzi/stalker) | Gianluca Renzi | USB keyboard adapter |
-| [YAMI](https://github.com/shred/yami) | Shred | Serial mouse adapter |
+| [YAMI](https://codeberg.org/shred/yami) | Shred | Serial mouse adapter |
 | [A314](https://github.com/niklasekstrom/a314) | Niklas Ekström | Raspberry Pi Coprocessor interface |
 
 ## Audio
