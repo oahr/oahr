@@ -62,7 +62,6 @@ Connect non-Amiga hardware to your trusty Amiga.
 | [Stalker](https://github.com/gianlucarenzi/stalker) | Gianluca Renzi | USB keyboard adapter |
 | [UWMouse](http://bax.comlab.uni-rostock.de/en/hardware/amiga-usb-mouse/) | Henryk Richter | USB mouse adapter |
 | [YAMI](https://codeberg.org/shred/yami) | Shred | Serial mouse adapter |
-| [A314](https://github.com/niklasekstrom/a314) | Niklas Ekström | Raspberry Pi Coprocessor interface |
 
 ## Audio
 
