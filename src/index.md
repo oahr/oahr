@@ -92,6 +92,8 @@ Various remakes of original hardware.
 | -------- | ----- | ---- |
 | [Action Replay III](https://github.com/na103/ar3) | Nicola Avanzi | Remake of _Action Replay III_ |
 | [Amiga Dueottosei](https://github.com/na103/Dueottosei) | Nicola Avanzi | Remake of _Vortex ATonce Plus_ PC AT Emulator |
+| [DeMoN](https://github.com/gerbilbyte/DeMoN) | gerbilbyte | _Action Replay_ like cartridge |
+| [DeMoN II](https://github.com/gerbilbyte/DeMoN2) | gerbilbyte | _Action Replay_ like cartridge |
 
 ## Replacement Parts
 
