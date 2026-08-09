@@ -26,8 +26,11 @@ These projects use a Product ID from the Open Amiga Hardware Repository.
 | 5194 |   7 | [RIPPLE](https://github.com/LIV2/RIPPLE-IDE) | Matt Harlum | Zorro IDE | IDE |
 | 5194 |   8 | [RIDE](https://github.com/LIV2/RIDE) | Matt Harlum | A500/1000/2000/CDTV Fast RAM + IDE | Fast RAM |
 | 5194 |   9 | [RIDE](https://github.com/LIV2/RIDE) | Matt Harlum | A500/1000/2000/CDTV Fast RAM + IDE | IDE |
-| 5194 |  10 | [SF2000](https://github.com/jbilander/SF2000) | J. Bilander | A2000 Accelerator | RAM |
-| 5194 |  11 | [SF2000](https://github.com/jbilander/SF2000) | Niklas Ekström, Matt Harlum | A2000 Accelerator | SD Card |
+| 5194 |  10 | [Spitfire 2000](https://github.com/jbilander/SF2000) | J. Bilander | A2000 Accelerator | RAM |
+| 5194 |  11 | [Spitfire 2000](https://github.com/jbilander/SF2000) | Niklas Ekström, Matt Harlum | A2000 Accelerator | SD Card |
+| 5194 |  12 | [Spitfire 2000](https://github.com/jbilander/SF2000) | J. Bilander | A2000 Accelerator | Control Registers |
+| 5194 |  13 | [Base64](https://github.com/jbilander/Base64) | J. Bilander | A500/A2000 Accelerator | Fast RAM |
+| 5194 |  14 | [Base64](https://github.com/jbilander/Base64) | J. Bilander | A500/A2000 Accelerator | Control Registers |
 
 All IDs are decimal. See [here](application.md) about how to apply for your own Product ID.
 
@@ -72,6 +75,15 @@ All kind of audio related projects.
 | [Amiga Stereo Digitizer](https://github.com/wiretap-retro/Amiga-Stereo-Digitizer) | Sampedenawa, wiretap | Parallel port digitizer |
 | [AmiGUS](https://github.com/necronomfive/AmiGUS-pub) | Oliver Achten | ZII Sound Board |
 | [Prelude ZII Sound Card](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | wiretap | Replica of the Prelude ZII |
+
+## Controller
+
+Harddisk controller boards.
+
+| Project  | Maker | Type |
+| -------- | ----- | ---- |
+| [A4091](https://github.com/A4091/a4091-hardware) | Stefan Reinauer | ZIII SCSI Controller |
+| [A4092](https://github.com/A4091/A4092) | Stefan Reinauer | ZIII SCSI Controller |
 
 ## RAM Expansions
 
