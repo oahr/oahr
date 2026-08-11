@@ -85,6 +85,15 @@ Harddisk controller boards.
 | [A4091](https://github.com/A4091/a4091-hardware) | Stefan Reinauer | ZIII SCSI Controller |
 | [A4092](https://github.com/A4091/A4092) | Stefan Reinauer | ZIII SCSI Controller |
 
+## Power Supplies
+
+Modern power supplies and replicas.
+
+| Project  | Maker | Type |
+| -------- | ----- | ---- |
+| [A1200SPWR](https://codefloe.com/MastaTabs/a1200spwr) | MastaTabs | Amiga 1200 Single Power |
+| [A500SPWR](https://codefloe.com/MastaTabs/a500spwr) | MastaTabs | Amiga 500 Single Power |
+
 ## RAM Expansions
 
 Extend your Amiga's RAM.
@@ -160,5 +169,7 @@ Projects that are not directly Amiga related, but might be useful for your Amiga
     **This is just a collection of links to open hardware projects.**
     
     We do not have the funds or expertise to evaluate the feasibility of each project ourselves. Therefore we cannot provide any warranty, either expressed or implied, regarding their functionality or their potential to cause damage to your hardware or property.
+
+    **Devices operating at mains voltage must be constructed exclusively by trained electrical professionals.**
     
     If you have any questions or encounter any issues with a project, please reach out to the respective project owner for assistance.
