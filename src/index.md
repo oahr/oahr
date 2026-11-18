@@ -40,7 +40,7 @@ Speed up your Amiga with modern CPUs or CPLDs.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
-| [N2630](https://github.com/jasonsbeer/Amiga-N2630) | jasonsbeer | A2630 re-imaginged |
+| [N2630](https://github.com/jasonsbeer/Amiga-N2630) | Jason Neus | A2630 re-imaginged |
 | [PiStorm](https://github.com/captain-amygdala/pistorm) | PiStorm | RasPi based accelerator |
 | [Z3660](https://github.com/shanshe/Z3660) | sHaNsHe | A3660 based accelerator, RAM, RTG, Audio, Network |
 
@@ -151,7 +151,8 @@ Reinvented, modern Amiga mainboards.
 
 | Project  | Maker | Type |
 | -------- | ----- | ---- |
-| [Amiga2000 EATX](https://github.com/jasonsbeer/Amiga-2000-EATX) | jasonsbeer | Amiga 2000, EATX form factor |
+| [Amiga2000 EATX](https://github.com/jasonsbeer/Amiga-2000-EATX) | Jason Neus | Amiga 2000, EATX form factor |
+| [AmigaPCI](https://www.amigapci.com) | Jason Neus | OCS Amiga, ATX form factor, PCI |
 | [MigStorm-ITX](https://github.com/wiretap-retro/MigStorm-ITX) | wiretap | MiniMig clone, ITX form factor |
 | [MiniMig / MiST ITX](https://www.minimig.ca/) | EmbeddedSoft | FPGA Amiga, MiniITX form factor |
 | [SMD2000 "Bushfire"](https://github.com/gazzmaniac/SMD2000/) | gaz | Amiga 2000, MiniDTX form factor |
